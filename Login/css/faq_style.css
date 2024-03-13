@@ -1,0 +1,29 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.accordion-item {
+  margin-bottom: 20px;
+}
+
+.accordion-button {
+  background-color: #139DF2;
+  color: #ffffff;
+}
+
+.accordion-button:hover {
+  background-color: #1BCBF2; 
+}
+
+.accordion-button.collapsed {
+  background-color: #005cbf; 
+}
+
+.accordion-body {
+  background-color: #e3e3e3; 
+}
